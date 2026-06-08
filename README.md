@@ -10,8 +10,6 @@
 | 2 | Narendra Farel Arivanto | 25032014021 |
 | 3 | Fahmi Bima Yudhistira | 25032014011 |
 
-> Catatan: bagian nama dan NIM dapat diganti sesuai identitas anggota kelompok.
-
 ## Deskripsi Program
 
 Program ini merupakan implementasi algoritma **K-Means Clustering** untuk mengelompokkan data trafik jaringan Internet of Things (IoT) berdasarkan karakteristik aliran data jaringan. Dataset yang digunakan adalah **RT-IoT2022** dengan file bernama `RT_IOT2022.csv`.
